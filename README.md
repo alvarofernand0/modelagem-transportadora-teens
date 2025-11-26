@@ -67,4 +67,11 @@ O sistema deve controlar **rotas, motoristas, veículos, cargas e entregas**, pe
   - `Administrativo` (Clientes, Usuários)
   - `Financeiro` (Custos)
 
+## Branchs
+
+- Clone o repositorio
+- Crie sua branch com git checkout -b feat/seuNomeAqui
+- Na sua branch configure o upstream: git push -u origin feat/SuaBranch
+- Faça tudo apenas NA SUA BRANCH
+
 ---
