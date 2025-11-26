@@ -73,5 +73,5 @@ O sistema deve controlar **rotas, motoristas, veículos, cargas e entregas**, pe
 - Crie sua branch com git checkout -b feat/seuNomeAqui
 - Na sua branch configure o upstream: git push -u origin feat/SuaBranch
 - Faça tudo apenas NA SUA BRANCH
-
+- Subir sua modelagem em png
 ---
